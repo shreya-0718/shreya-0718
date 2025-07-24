@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/shreya-0718/shreya-0718#readme",
   "dependencies": {
+    "dayjs": "^1.11.13",
     "octokit": "^5.0.3"
   }
 }
