@@ -17,6 +17,16 @@
 </div>
 <p align="center"style="font-size: 14px; color: #ffffff;">Website under construction :) ^</p>
 
+
+## My GitHub Stats 📊
+⭐ **Recently starred:** `{{STARRED_REPO}}` 
+
+👀 **Last commit to:** `{{LAST_COMMIT}}`
+
+❤️‍🔥 **Commits this week:** `{{COMMIT_COUNT}}`
+
+_Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
+
 <!--
 **shreya-0718/shreya-0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
