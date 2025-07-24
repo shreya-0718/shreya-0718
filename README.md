@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi, I'm Shreya Chougule!&animation=fadeIn&type=waving&color=0:051650,100:4b0076&fontColor=ffffff&height=140&fontSize=40"/></p>
+  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Shreya%20Chougule!&animation=fadeIn&type=waving&color=0:051650,100:4b0076&fontColor=ffffff&height=140&fontSize=40"/></p>
 
 <h3 align="center"> Welcome to my little corner of GitHub! I'm Shreya Chougule, a high school student in the suburbs of Texas with a passion for coding and building and an obsession with learning as much as I can. Feel free to look around; you might find something cool :) </h3>
 
