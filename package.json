@@ -1,6 +1,7 @@
 {
   "name": "shreya-0718",
   "version": "1.0.0",
+  "type":"module",
   "description": "<p align=\"center\">\r   <img src=\"https://capsule-render.vercel.app/api?text=Hi, I'm Shreya Chougule!&animation=fadeIn&type=waving&color=0:051650,100:4b0076&fontColor=ffffff&height=140&fontSize=40\"/></p>",
   "main": "update-readme.js",
   "scripts": {

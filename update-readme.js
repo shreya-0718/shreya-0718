@@ -6,13 +6,13 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function updateReadme() {
   const { data: starred } = await octokit.rest.activity.listReposStarredByUser({
-    username: 'shreyaluu',
+    username: 'shreya-0718',
     per_page: 1
   });
   const latestStar = starred[0]?.full_name || 'None';
 
   const { data: events } = await octokit.rest.activity.listPublicEventsForUser({
-    username: 'shreyaluu',
+    username: 'shreya-0718',
     per_page: 100
   });
 
