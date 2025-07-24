@@ -42,7 +42,7 @@ async function updateReadme() {
   console.log(latestStar);
   console.log(lastCommitLine);
   console.log(commitCount);
-  
+
   const updated = readme
     .replace(`{{STARRED_REPO}}`, latestStar)
     .replace(`{{LAST_COMMIT}}`, lastCommitLine)
