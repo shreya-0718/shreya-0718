@@ -5,7 +5,7 @@
 <h3 align="center"> Welcome to my little corner of GitHub! I'm Shreya Chougule, a high school student in the suburbs of Texas with a passion for coding and building and an obsession with learning as much as I can. Feel free to look around; you might find something cool :) </h3>
 
 ## Connect with me! 💜
-<div style="display: flex; justify-content: center; gap: 5px;">
+<div style="display: flex; justify-content: center; gap: 5px;" align="center">
   <a href="https://www.instagram.com/its.shreyaluu/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
   </a>
@@ -15,6 +15,7 @@
   </a>
 
 </div>
+
 <p align="center"style="font-size: 14px; color: #ffffff;">Website under construction :) ^</p>
 
 
