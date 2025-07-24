@@ -39,9 +39,9 @@ async function updateReadme() {
 
   const readme = fs.readFileSync('README.md', 'utf8');
   const updated = readme
-    .replace(/{{STARRED_REPO}}/, latestStar)
+    .replace(`/{{STARRED_REPO}}/`, latestStar)
     .replace(`/{{LAST_COMMIT}}/`, lastCommitLine)
-    .replace(`/{{COMMIT_COUNT}}/`, `${commitCount}`);
+    .replace(`/{{COMMIT_COUNT}}/`, commitCount);
 
   fs.writeFileSync('README.md', updated);
 }

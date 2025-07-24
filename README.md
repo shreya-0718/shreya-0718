@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Shreya%20Chougule!&animation=fadeIn&type=waving&color=0:051650,100:4b0076&fontColor=ffffff&height=140&fontSize=40"/></p>
+  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Shreya%20Chougule!&animation=fadeIn&type=waving&color=0:051650,100:ff3aae&fontColor=ffffff&height=140&fontSize=40"/></p>
 
 <h3 align="center"> Welcome to my little corner of GitHub! I'm Shreya Chougule, a high school student in the suburbs of Texas with a passion for coding and building and an obsession with learning as much as I can. Feel free to look around; you might find something cool :) </h3>
 
-## Connect with me! 🩷
+## Connect with me! 💜
 <div style="display: flex; justify-content: center; gap: 5px;">
   <a href="https://www.instagram.com/its.shreyaluu/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
@@ -18,8 +18,8 @@
 <p align="center"style="font-size: 14px; color: #ffffff;">Website under construction :) ^</p>
 
 
-## My GitHub Stats 📊
-⭐ **Recently starred:** `{{STARRED_REPO}}` 
+## My GitHub Stats 📈
+✨ **Recently starred:** `{{STARRED_REPO}}` 
 
 👀 **Last commit to:** `{{LAST_COMMIT}}`
 
