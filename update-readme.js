@@ -1,4 +1,4 @@
-import fs from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { Octokit } from 'octokit';
 import dayjs from 'dayjs';
 
@@ -37,13 +37,18 @@ async function updateReadme() {
     }
   }
 
-  const readme = fs.readFileSync('README.md', 'utf8');
-  const updated = readme
-    .replace(`/{{STARRED_REPO}}/`, latestStar)
-    .replace(`/{{LAST_COMMIT}}/`, lastCommitLine)
-    .replace(`/{{COMMIT_COUNT}}/`, commitCount);
+  const readme = readFileSync('README.md', 'utf8');
 
-  fs.writeFileSync('README.md', updated);
+  console.log(latestStar);
+  console.log(lastCommitLine);
+  console.log(commitCount);
+  
+  const updated = readme
+    .replace(`{{STARRED_REPO}}`, latestStar)
+    .replace(`{{LAST_COMMIT}}`, lastCommitLine)
+    .replace('`{{COMMIT_COUNT}}`', commitCount.toString());
+
+  writeFileSync('README.md', updated);
 }
 
 updateReadme();

@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hr at xx:00
-  workflow_dispatch:   
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:     # manual trigger
 
 jobs:
   update-readme:
@@ -24,3 +24,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node update-readme.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "shreya-0718"
+          git config --global user.email "shreyachougule796@gmail.com"
+          git add README.md
+          git diff --quiet || git commit -m "✨ update readme stats"
+          git push
