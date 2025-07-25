@@ -25,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node update-readme.js
 
+      - name: Set up authenticated git remote
+        run: git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/shreya-0718/shreya-0718.git
+      
       - name: Commit and push changes
         run: |
           git config --global user.name "shreya-0718"
