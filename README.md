@@ -25,7 +25,6 @@
 👀 **Last commit to:** `commits`
 
 ❤️‍🔥 **Commits this week:** `4`
-❤️‍🔥 **Commits this week:** `4`
 
 _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 
