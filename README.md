@@ -20,11 +20,11 @@
 
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** `{{STARRED_REPO}}`
+✨ **Recently starred:** hackclub/hcb
 
 👀 **Last commit to:** `commits`
 
-❤️‍🔥 **Commits this week:** `{{COMMIT_COUNT}}`
+❤️‍🔥 **Commits this week:** `4`
 
 _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 
