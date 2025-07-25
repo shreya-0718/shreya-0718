@@ -21,6 +21,13 @@
 
 And find me on the **Hack Club Slack**: `@shreyaluu`
 
+## What I'm involved in 🔍
+- **Hack Club**: among other things, I'm in **Highway** and **Athena Awards**, and am organizing a hackathon for **Daydream** in the Dallas-Fort Worth area!
+- **FRC**: i'm a member of **FRC Team 8732**, a Texas-based robotics team
+- **TSA**: i'm the two-time president of my school's **TSA Chapter**, where we participate in various tech-related competitions
+- **MIT FutureMakers**: shoutout **2025 Team 8** 🥳
+- **Girls Who Code**: an international nonprofit organization dedicated to increasing the number of **women in computer science**
+
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `{{STARRED_REPO}}`
 
@@ -28,7 +35,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 
 ❤️‍🔥 **Commits this week:** `{{COMMIT_COUNT}}`
 
-_Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
+_Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
 
 
 <h2> Tools I've Learned/Used ⚓ </h2>
@@ -50,14 +57,21 @@ _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="google colab" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="fusion" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
 </p>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
 
-![snake gif](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
+![snake animation :)](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
 ---
 
 <p align="center">
