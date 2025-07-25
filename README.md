@@ -26,7 +26,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 
 👀 **Last commit to:** `shreya-0718/shreya-0718`
 
-❤️‍🔥 **Commits this week:** `15`
+❤️‍🔥 **Commits this week:** `27`
 
 _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 
