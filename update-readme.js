@@ -42,11 +42,16 @@ async function updateReadme() {
   console.log(latestStar);
   console.log(lastCommitLine);
   console.log(commitCount);
-
+/*
   const updated = readme
     .replace("`{{STARRED_REPO}}`", latestStar)
     .replace(`{{LAST_COMMIT}}`, lastCommitLine)
-    .replace('`{{COMMIT_COUNT}}`', commitCount.toString());
+    .replace(`{{COMMIT_COUNT}}`, commitCount.toString());
+*/
+const updated = readme
+    .replace("`{{STARRED_REPO}}`", "stars")
+    .replace(`{{LAST_COMMIT}}`, "commits")
+    .replace(`{{COMMIT_COUNT}}`, "commitCount".toString());
 
   writeFileSync('README.md', updated);
 }
