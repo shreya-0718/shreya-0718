@@ -22,7 +22,6 @@
 And find me on the **Hack Club Slack**: `@shreyaluu`
 
 ## What I'm involved in 🔍
-
 - **Hack Club**: among other things, I'm in **Highway** and **Athena Awards**, and am organizing a hackathon for **Daydream** in the Dallas-Fort Worth area!
 - **FRC**: i'm a member of **FRC Team 8732**, a Texas-based robotics team
 - **TSA**: i'm the two-time president of my school's **TSA Chapter**, where we participate in various tech-related competitions
@@ -37,6 +36,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 ❤️‍🔥 **Commits this week:** `48`
 
 _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
+
 
 <h2> Tools I've Learned/Used ⚓ </h2>
 <p align="left">
@@ -71,7 +71,7 @@ _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
 
-![snake gif](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
+![snake animation :)](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
 ---
 
 <p align="center">
