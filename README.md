@@ -55,7 +55,7 @@ _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
 
-![Snake animation](https://github.com/shreya-0718/shreya-0718/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
 ---
 
 <p align="center">
