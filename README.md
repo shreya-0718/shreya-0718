@@ -22,7 +22,7 @@
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `hackclub/hcb`
 
-👀 **Last commit to:** `commits`
+👀 **Last commit to:** `shreya-0718/iris-classification`
 
 ❤️‍🔥 **Commits this week:** `4`
 
