@@ -16,11 +16,17 @@ async function updateReadme() {
     per_page: 100
   });
 
-  const pushEvent = events.find(event => event.type === 'PushEvent');
+  const pushEvents = events.filter(event =>
+    event.type === 'PushEvent' && event.repo.name !== 'shreya0718/shreya0718'
+  );
+
   let lastCommitLine = 'No recent commits found.';
-  if (pushEvent) {
-    const repoName = pushEvent.repo.name;
-    const commit = pushEvent.payload.commits?.[0];
+  
+  if (pushEvents.length > 0) {
+    const mostRecentPush = pushEvents[0];
+    const repoName = mostRecentPush.repo.name;
+    const commit = mostRecentPush.payload.commits?.[0];
+  
     if (commit) {
       lastCommitLine = `${repoName}`;
     }
