@@ -37,7 +37,7 @@ async function updateReadme() {
     }
   }
 
-  const template = readFileSync("README.template.md", "utf8");
+  const template = readFileSync("template.md", "utf8");
 
   const updated = template
     .replace("{{STARRED_REPO}}", stars)
