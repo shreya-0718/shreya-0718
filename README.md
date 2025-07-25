@@ -19,6 +19,8 @@
 <p style="font-size: 14px; color: #ffffff;">Website under construction :) ^</p>
 
 
+And find me on the **Hack Club Slack**: `@shreyaluu`
+
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `hackclub/hcb`
 
@@ -50,5 +52,5 @@ _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051650,100:ff3aae&height=140&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3aae,100:051650&height=140&section=footer"/>
 </p>
