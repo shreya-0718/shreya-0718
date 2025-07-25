@@ -20,7 +20,7 @@
 
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** `{{STARRED_REPO}}` 
+✨ **Recently starred:** {{STARRED_REPO}}
 
 👀 **Last commit to:** `{{LAST_COMMIT}}`
 
