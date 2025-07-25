@@ -42,22 +42,12 @@ async function updateReadme() {
   console.log(latestStar);
   console.log(lastCommitLine);
   console.log(commitCount);
-/*
+
   const updated = readme
     .replace("`{{STARRED_REPO}}`", latestStar)
     .replace(`{{LAST_COMMIT}}`, lastCommitLine)
     .replace(`{{COMMIT_COUNT}}`, commitCount.toString());
-*/
-
-  console.log(readme)
-
-  const updated = readme
-    .replace("{{STARRED_REPO}}", "stars")
-    .replace(`{{LAST_COMMIT}}`, "commits")
-    .replace(`{{COMMIT_COUNT}}`, "commitCount".toString());
-
-  console.log(updated)
-
+    
   if (updated !== readme) {
     console.log("README changed — writing file!");
   } else {

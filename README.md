@@ -20,11 +20,11 @@
 
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** {{STARRED_REPO}}
+✨ **Recently starred:** `{{STARRED_REPO}}`
 
 👀 **Last commit to:** `{{LAST_COMMIT}}`
 
-❤️‍🔥 **Commits this week:** {{COMMIT_COUNT}}
+❤️‍🔥 **Commits this week:** `{{COMMIT_COUNT}}`
 
 _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 
