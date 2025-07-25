@@ -43,12 +43,12 @@ async function updateReadme() {
   console.log(lastCommitLine);
   console.log(commitCount);
 
-  const updated = readme
+  const updated = template
     .replace(`{{STARRED_REPO}}`, latestStar)
     .replace(`{{LAST_COMMIT}}`, lastCommitLine)
     .replace(`{{COMMIT_COUNT}}`, commitCount.toString());
 
-  if (updated !== readme) {
+  if (updated !== template) {
     console.log("README changed — writing file!");
   } else {
     console.log("No change detected — skipping write.");
