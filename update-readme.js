@@ -49,7 +49,7 @@ async function updateReadme() {
     .replace(`{{COMMIT_COUNT}}`, commitCount.toString());
 */
 const updated = readme
-    .replace("`{{STARRED_REPO}}`", "stars")
+    .replace("{{STARRED_REPO}}", "stars")
     .replace(`{{LAST_COMMIT}}`, "commits")
     .replace(`{{COMMIT_COUNT}}`, "commitCount".toString());
 
