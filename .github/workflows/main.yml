@@ -15,6 +15,9 @@ jobs:
         with:
           github_user_name: shreya-0718
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          color_snake: '#8a2be2'
+          color_dots: '#ffb6c1'
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
