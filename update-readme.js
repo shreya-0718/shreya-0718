@@ -58,7 +58,15 @@ async function updateReadme() {
 
   console.log(updated)
 
+  if (updated !== readme) {
+    console.log("README changed — writing file!");
+  } else {
+    console.log("No change detected — skipping write.");
+  }
+
   writeFileSync('README.md', updated);
+
+  console.log("README written!");
 }
 
 updateReadme();
