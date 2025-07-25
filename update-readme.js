@@ -37,26 +37,15 @@ async function updateReadme() {
     }
   }
 
-  const readme = readFileSync('README.md', 'utf8');
+  const template = readFileSync("README.template.md", "utf8");
 
-  console.log(latestStar);
-  console.log(lastCommitLine);
-  console.log(commitCount);
+  const updated = template
+    .replace("{{STARRED_REPO}}", stars)
+    .replace("{{LAST_COMMIT}}", commits)
+    .replace("{{COMMIT_COUNT}}", commitCount.toString());
 
-  const updated = readme
-    .replace("`{{STARRED_REPO}}`", latestStar)
-    .replace(`{{LAST_COMMIT}}`, lastCommitLine)
-    .replace(`{{COMMIT_COUNT}}`, commitCount.toString());
-    
-  if (updated !== readme) {
-    console.log("README changed — writing file!");
-  } else {
-    console.log("No change detected — skipping write.");
-  }
+  writeFileSync("README.md", updated);
 
-  writeFileSync('README.md', updated);
-
-  console.log("README written!");
 }
 
 updateReadme();

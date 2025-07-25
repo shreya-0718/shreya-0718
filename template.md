@@ -20,25 +20,10 @@
 
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** `hackclub/hcb`
+✨ **Recently starred:** `{{STARRED_REPO}}`
 
-👀 **Last commit to:** `commits`
+👀 **Last commit to:** `{{LAST_COMMIT}}`
 
-❤️‍🔥 **Commits this week:** `4`
+❤️‍🔥 **Commits this week:** `{{COMMIT_COUNT}}`
 
 _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
-
-<!--
-**shreya-0718/shreya-0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
