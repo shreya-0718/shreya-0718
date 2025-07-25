@@ -51,6 +51,13 @@ _Updated every hour by [Octokit.js](https://github.com/octokit/octokit.js)_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 </p>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
+
+![Snake animation](https://github.com/shreya-0718/shreya-0718/blob/output/github-contribution-grid-snake.svg)
+---
+
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3aae,100:051650&height=140&section=footer"/>
 </p>
