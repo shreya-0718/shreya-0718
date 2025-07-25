@@ -24,7 +24,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `hackclub/hcb`
 
-👀 **Last commit to:** `shreya-0718/iris-classification`
+👀 **Last commit to:** `shreya-0718/shreya-0718`
 
 ❤️‍🔥 **Commits this week:** `48`
 
