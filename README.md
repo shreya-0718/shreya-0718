@@ -31,9 +31,9 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `hackclub/highway`
 
-👀 **Last commit to:** `shreya-0718/highway`
+👀 **Last commit to:** `shreya-0718/shreyacard`
 
-❤️‍🔥 **Commits this week:** `54`
+❤️‍🔥 **Commits this week:** `58`
 
 _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
 
