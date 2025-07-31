@@ -33,7 +33,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 
 👀 **Last commit to:** `shreya-0718/starhub`
 
-❤️‍🔥 **Commits this week:** `65`
+❤️‍🔥 **Commits this week:** `64`
 
 _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
 
