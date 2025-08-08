@@ -29,7 +29,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 - **Girls Who Code**: an international nonprofit organization dedicated to increasing the number of **women in computer science**
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** `hackclub/highway`
+✨ **Recently starred:** `mikaela-beakley/NouriSync`
 
 👀 **Last commit to:** `shreya-0718/muncher`
 
