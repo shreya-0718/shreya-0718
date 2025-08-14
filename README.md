@@ -31,9 +31,9 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `mikaela-beakley/NouriSync`
 
-👀 **Last commit to:** `shreya-0718/daydream`
+👀 **Last commit to:** `shreya-0718/muncher`
 
-❤️‍🔥 **Commits this week:** `21`
+❤️‍🔥 **Commits this week:** `24`
 
 _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
 
