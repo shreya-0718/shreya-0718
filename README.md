@@ -33,7 +33,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 
 👀 **Last commit to:** `shreya-0718/lemonade-theory`
 
-❤️‍🔥 **Commits this week:** `11`
+❤️‍🔥 **Commits this week:** `9`
 
 _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js)_
 
