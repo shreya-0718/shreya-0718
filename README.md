@@ -31,7 +31,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 ## My GitHub Stats 📈
 ✨ **Recently starred:** `mikaela-beakley/NouriSync`
 
-👀 **Last commit to:** `shreya-0718/lemonade-theory`
+👀 **Last commit to:** `No recent commits found.`
 
 ❤️‍🔥 **Commits this week:** `0`
 
