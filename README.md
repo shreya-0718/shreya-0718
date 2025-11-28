@@ -22,9 +22,9 @@
 And find me on the **Hack Club Slack**: `@shreyaluu`
 
 ## What I'm involved in 🔍
-- **Hack Club**: among other things, I'm in **Highway** and **Athena Awards**, and organized a hackathon for **Daydream** in the Dallas-Fort Worth area! Stay tuned for more 👀
+- **Hack Club**: among other things, I'm in **Highway** and **Athena Awards**, and am organizing a hackathon for **Daydream** in the Dallas-Fort Worth area!
 - **FRC**: i'm a member of **FRC Team 8732**, a Texas-based robotics team
-- **TSA**: i'm the two-term president of my school's **TSA Chapter**, where we participate in various tech-related competitions
+- **TSA**: i'm the two-time president of my school's **TSA Chapter**, where we participate in various tech-related competitions
 - **MIT FutureMakers**: shoutout **2025 Team 8** 🥳
 - **Girls Who Code**: an international nonprofit organization dedicated to increasing the number of **women in computer science**
 
