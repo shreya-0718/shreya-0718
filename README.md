@@ -29,7 +29,7 @@ And find me on the **Hack Club Slack**: `@shreyaluu`
 - **Girls Who Code**: an international nonprofit organization dedicated to increasing the number of **women in computer science**
 
 ## My GitHub Stats 📈
-✨ **Recently starred:** `MeghanaM4/arcus`
+✨ **Recently starred:** `TaniWanKenobi/IsThisUserHackatimeBanned`
 
 👀 **Last commit to:** `No recent commits found.`
 
