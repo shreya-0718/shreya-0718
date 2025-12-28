@@ -6,8 +6,11 @@
 
 ## Connect with me! 💜
 <div style="display: flex; justify-content: center; gap: 5px;">
+  <a href="https://www.linkedin.com/in/shreya-chougule-8b2458381/">
+    <img height="50" src="https://github.com/user-attachments/assets/1c9c6480-0919-40f7-9b14-be78591b96ac" />
+  </a>
   <a href="https://www.instagram.com/its.shreyaluu/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
+    <img height="52" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
   </a>
   
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
