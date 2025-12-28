@@ -1,7 +1,11 @@
-import { readFile, readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { Octokit } from 'octokit';
 import dayjs from 'dayjs';
 
+if (!process.env.GITHUB_TOKEN) {
+  console.error("❌ no GITHUB_TOKEN environment variable!");
+  process.exit(1);
+}
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function updateReadme() {
@@ -17,13 +21,13 @@ async function updateReadme() {
   });
 
   const pushEvents = events.filter(event =>
-    event.type === 'PushEvent' && event.repo.name !== 'shreya0718/shreya0718'
+    event.type === 'PushEvent' && event.repo.name !== 'shreya-0718/shreya-0718'
   );
 
   let lastCommitLine = 'No recent commits found.';
   
   if (pushEvents.length > 0) {
-    const mostRecentPush = pushEvents[0];
+    const mostRecentPush = pushEvents.sort((a, b) => new Date(b.created_at) - new Date(a.created_at))[0];
     const repoName = mostRecentPush.repo.name;
     const commit = mostRecentPush.payload.commits?.[0];
   
