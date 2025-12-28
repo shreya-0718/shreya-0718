@@ -69,10 +69,7 @@ _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js
 
 ---
 
-<!---- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-0718&theme=radical) 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreya-0718&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
 
 ![snake animation :)](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
 ---
