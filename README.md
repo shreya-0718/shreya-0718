@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Shreya%20Chougule!&animation=fadeIn&type=waving&color=0:051650,100:ff3aae&fontColor=ffffff&height=140&fontSize=40"/></p>
 
@@ -6,8 +5,11 @@
 
 ## Connect with me! 💜
 <div style="display: flex; justify-content: center; gap: 5px;">
+  <a href="https://www.linkedin.com/in/shreya-chougule-8b2458381/">
+    <img height="50" src="https://github.com/user-attachments/assets/1c9c6480-0919-40f7-9b14-be78591b96ac" />
+  </a>
   <a href="https://www.instagram.com/its.shreyaluu/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
+    <img height="52" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" />
   </a>
   
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
@@ -69,7 +71,9 @@ _Updates every hour thanks to [Octokit.js](https://github.com/octokit/octokit.js
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-0718&theme=radical&layout=donut)](https://github.com/shreya-0718/github-readme-stats) -->
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-0718&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreya-0718&theme=radical)
 
 ![snake animation :)](https://github.com/shreya-0718/shreya-0718/blob/output/github-snake-dark.svg)
 ---
